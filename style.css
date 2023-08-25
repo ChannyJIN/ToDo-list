@@ -3,6 +3,7 @@ body {
   font-family: 'Nanum Pen Script', cursive;
   font-size: larger;
   text-align: center;
+  padding: 10px;
   background-image: url(https://cdn-icons-png.flaticon.com/512/2071/2071353.png);
   background-repeat: no-repeat;
   background-position: center top;
@@ -15,6 +16,7 @@ body {
 footer {
   font-family: 'Nanum Pen Script', cursive;
   position: fixed;
+  right: 10px;
   width: 100%;
   bottom: 0%;
   font-family: Arial, Helvetica, sans-serif;
